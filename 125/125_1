@@ -1,0 +1,8 @@
+\begin{tabular}{lrrrr}
+\toprule
+{} &      1 &      2 &      3 &  \$T\_ср\$ \\
+\midrule
+\$T\_0\$ &  3.138 &  3.155 &  3.195 &   3.163 \\
+\$T\_1\$ &  4.084 &  4.000 &  4.034 &   4.039 \\
+\bottomrule
+\end{tabular}

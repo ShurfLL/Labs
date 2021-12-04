@@ -1,0 +1,8 @@
+\begin{tabular}{lrrrrrrr}
+\toprule
+{} &            1 &            2 &            3 &            4 &            5 &            6 &            7 \\
+\midrule
+\$M, H\textbackslash cdot m\$   &     0.400000 &     0.320000 &     0.260000 &     0.210000 &     0.170000 &     0.140000 &     0.110000 \\
+\$\textbackslash omega,c\textasciicircum \{-1\}\$ &  2506.265664 &  2631.578947 &  2631.578947 &  2511.961722 &  2485.380117 &  2631.578947 &  2412.280702 \\
+\bottomrule
+\end{tabular}
