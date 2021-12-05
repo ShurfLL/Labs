@@ -55,7 +55,7 @@ E=po*u**2/1000000000
 fn1=np.array([3251, 4118, 4261])
 
 sigu=2*0.6/math.sqrt(3)*math.sqrt(-(-(np.average(fd**2))/(np.average(n**2))+4261**2))
-sigE=E*sigu/u
+sigE1=
 print(sigu)
 print(np.average(fm))
 
